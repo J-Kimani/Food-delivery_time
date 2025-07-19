@@ -3,6 +3,6 @@ pandas
 scikit-learn
 pydeck
 pip
-numpy==1.24.3
-tensorflow==2.13.0
-keras==2.13.1
+numpy
+tensorflow
+keras
